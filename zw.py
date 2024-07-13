@@ -100,7 +100,7 @@ def transcreve_tab_audio():
 
 def sidebar_info():
     # Logotipo
-    logo_url = "https://cdn.midjourney.com/a2545aee-4ab3-4d73-9bed-eb8ee3a60b70/0_2.png"  # Substitua pela URL real do seu logotipo
+    logo_url = "https://cdn.midjourney.com/3058cedc-45b4-47cd-a7ed-3eceff532927/0_0.png"  # Substitua pela URL real do seu logotipo
     st.sidebar.image(logo_url, use_column_width=True, caption="Zeus Whisper")
 
     st.sidebar.title("Como usar o Zeus Whisper")
